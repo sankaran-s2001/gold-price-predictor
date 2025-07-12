@@ -62,8 +62,7 @@ Gold prices in India fluctuate daily and are strongly influenced by the USD to I
 ## 🌐 Live Demo
 
 Try it out:  
-🔗 [https://huggingface.co/spaces/sankarans2001/gold-price-predictor](https://huggingface.co/spaces/sankarans2001/gold-price-predictor)  
-*(Replace with your actual Space URL)*
+🔗 [https://huggingface.co/spaces/sankarans2001/gold-price-predictor](https://huggingface.co/spaces/sankarans2001/gold-price-predictor)
 
 ---
 
